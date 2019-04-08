@@ -1,4 +1,4 @@
-# Dictionary-English-to-English-and-English-to-Urdu-
+# JavaFX Dictionary project (English-to-English-and-English-to-Urdu)
 It was our semester project. We used hash tables to implement dictionary and JavaFX to make beautiful user interface.
 To run this project, just follow following steps:
                                                   (i) Download "Dictionary.zip" file of this project.
